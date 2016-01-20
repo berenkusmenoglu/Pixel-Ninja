@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PixelNinja-City Above the Clouds", "PixelNinja-City Above the Clouds\PixelNinja-City Above the Clouds.vcxproj", "{0D938069-792A-4DD8-AFE2-F1E7A1127C34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D938069-792A-4DD8-AFE2-F1E7A1127C34}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0D938069-792A-4DD8-AFE2-F1E7A1127C34}.Debug|Win32.Build.0 = Debug|Win32
+		{0D938069-792A-4DD8-AFE2-F1E7A1127C34}.Release|Win32.ActiveCfg = Release|Win32
+		{0D938069-792A-4DD8-AFE2-F1E7A1127C34}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
